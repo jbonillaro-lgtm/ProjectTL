@@ -1,0 +1,27 @@
+# Datos (demasiado grandes para GitHub - ver README)
+*.zip
+*.pgm
+data/train/
+data/valid/
+data/test/
+data/MIASDBv1.21/
+ProyectoIA/
+
+# Modelos entrenados
+*.pt
+*.pth
+*.ckpt
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
